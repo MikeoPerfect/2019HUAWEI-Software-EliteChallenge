@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -O3 -Wall -std=c++11  -Wl,--enable-auto-import CMakeFiles/CodeCraft-2019.dir/CodeCraft-2019.cpp.o  -o ../bin/CodeCraft-2019.exe -Wl,--out-implib,../bin/libCodeCraft-2019.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

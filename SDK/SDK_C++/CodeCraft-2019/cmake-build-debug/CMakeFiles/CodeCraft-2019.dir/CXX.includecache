@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/CodeCraft-2019.cpp
+iostream
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/iostream
+func.h
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/func.h
+
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/func.h
+iostream
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/iostream
+cstdio
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/cstdio
+cstdlib
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/cstdlib
+vector
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/vector
+algorithm
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/algorithm
+map
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/map
+queue
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/queue
+struc.h
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/struc.h
+
+/cygdrive/c/Users/HFUBoy/Desktop/HuaWeiSoftware/SDK/SDK_C++/CodeCraft-2019/struc.h
+

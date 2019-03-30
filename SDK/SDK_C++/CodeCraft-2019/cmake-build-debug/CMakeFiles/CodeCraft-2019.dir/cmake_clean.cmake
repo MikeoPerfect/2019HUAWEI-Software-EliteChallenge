@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/CodeCraft-2019.dir/CodeCraft-2019.cpp.o"
+  "../bin/CodeCraft-2019.pdb"
+  "../bin/CodeCraft-2019.exe"
+  "../bin/libCodeCraft-2019.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/CodeCraft-2019.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
